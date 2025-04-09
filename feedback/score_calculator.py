@@ -1,10 +1,7 @@
+# feedback/score_calculator.py
 
-def calculate_average(scores):
-    if not scores:
-        return 0
-    return sum(scores) / len(scores)
-
-def is_passing(score, threshold=5.0):
-    return score >= threshold
-
- 
+def compute_average(feedback_dicts):
+    if not feedback_dicts:
+        return 0.0
+    total = sum(entry["score"] for entry in feedback_dicts)
+    return total / len(feedback_dicts)
