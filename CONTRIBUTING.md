@@ -1,4 +1,4 @@
-##Shreyas G Joshi (PES1UG23CA107)
+Shreyas G Joshi (PES1UG23CA107)
 Role: Repository
 - Created and managed the GitHub repository
 - Set up the project folder structure
@@ -7,7 +7,7 @@ Role: Repository
 - Created the GitHub Wiki pages
 
 
-##Siddhanth Sehrawat (PES1UG23CA108)
+Siddhanth Sehrawat (PES1UG23CA108)
 Role: Lead Developer
 
 - Developed the core modules including:
@@ -16,7 +16,7 @@ Role: Lead Developer
 - Wrote and managed test cases in `tests/test_score_calculator.py`
 
 
-##Shreya S Patil (PES1UG23CA106)
+Shreya S Patil (PES1UG23CA106)
 Role: Documentation Lead
 
 - Drafted and maintained:
